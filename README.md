@@ -4,7 +4,7 @@ Este proyecto es una solución integral y premium para la gestión y control de 
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 *   **Dashboard Moderno e Interactivo**: Panel visual responsivo con diseño *Glassmorphism* (diseño translúcido y desenfoques elegantes) y soporte móvil completo.
 *   **Estadísticas en Tiempo Real**: Contadores automáticos que reflejan el total de guías en estado *PENDIENTE*, *ENTREGADO* y *DEVUELTO*.
@@ -21,7 +21,7 @@ Este proyecto es una solución integral y premium para la gestión y control de 
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 prueba_tecnica/
@@ -60,7 +60,7 @@ prueba_tecnica/
 
 ---
 
-## 💻 Instalación y Configuración (¡Plug & Play!)
+## Instalación y Configuración 
 
 El sistema cuenta con un instalador automático integrado en la conexión de base de datos. Sigue estos simples pasos:
 
@@ -85,7 +85,7 @@ El sistema cuenta con un instalador automático integrado en la conexión de bas
 
 ---
 
-## 🛡️ Pruebas Recomendadas
+## Pruebas Recomendadas
 
 1.  **Consulta de Filtros**: Selecciona un estado o una ciudad en el menú superior; verás cómo el listado y los contadores se actualizan al instante sin recargas.
 2.  **Registro de Devolución**:
